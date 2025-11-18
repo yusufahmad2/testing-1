@@ -1,6 +1,2 @@
-def add_numbers(a, b):
-    return a + b
-
-print("Hello, World!")
-result = add_numbers(5, 3)
-print("The sum is:", result)
+name = input("Enter your name: ")
+print(f"Hello, {name}! Welcome to Python.")
